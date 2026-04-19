@@ -1,8 +1,4 @@
 # CNC-Algorithm-Verification-Platform
-I haven't figured out how to describe it.
-
-# 三轴数控算法仿真平台技术方案
-
 ## 1. 系统概述
 
 ### 1.1 平台架构
